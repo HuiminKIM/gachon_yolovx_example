@@ -1,5 +1,5 @@
-# gachon_yolovx_example
-Warboy_yolovx_example. you can use this code with furiosa warboy.
+# Gachon_yolovx_example
+Gachon_yolovx_example. you can use this code with furiosa warboy.
 
 
 1. wget https://github.com/Megvii-BaseDetection/YOLOX/releases/download/0.1.1rc0/yolox_l.onnx
